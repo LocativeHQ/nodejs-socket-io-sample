@@ -1,0 +1,14 @@
+{
+  "name": "geofancy-nodejs-socket-sample",
+  "version": "0.0.0",
+  "description": "A little sample App to demonstrate usage of Geofancy with Node.js and Socket.IO",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Kida",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^1.1.0"
+  }
+}
