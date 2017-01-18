@@ -1,7 +1,7 @@
 {
-  "name": "geofancy-nodejs-socket-sample",
+  "name": "locative-nodejs-socket-sample",
   "version": "0.0.0",
-  "description": "A little sample App to demonstrate usage of Geofancy with Node.js and Socket.IO",
+  "description": "A little sample App to demonstrate usage of Locative with Node.js and Socket.IO",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
