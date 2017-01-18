@@ -1,9 +1,9 @@
 'use strict';
 
-var socket = require('socket.io-client')('http://0.0.0.0:3000');
+var socket = require('socket.io-client')('https://my.lcative.io');
 
 socket.on('connect', function () {
-  console.log('Connected to my.geofancy.com...');
+  console.log('Connected to my.lcative.io...');
 
   socket.on('session', function (data) {
     console.log(data);
