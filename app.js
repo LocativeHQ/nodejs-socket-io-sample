@@ -1,6 +1,6 @@
 'use strict';
 
-var socket = require('socket.io-client')('https://my.lcative.io');
+var socket = require('socket.io-client')('https://my.locative.io');
 
 console.log('Connecting to my.locative.io…');
 socket.on('connect', function () {
